@@ -11,7 +11,7 @@ docker network create pacs
 
 *** Clone This Repo
 #+begin_src bash
-git clone https://github.com/manzana2164/ohif-orthanc.git
+git clone https://github.com/manzana2164/orthanc.git
 cd ohif-orthanc
 docker-compose up -d
 #+end_src
