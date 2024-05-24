@@ -20,7 +20,6 @@ It will also create a new /bridge-network/ pacs.
 
 *** Access OHIF and Orthanc
 
-[[./ohif-orthanc.jpg]]
 
 1. To access =OHIF= go to address `http://server-ip:3000`.
 2. To access =ORTHANC= webpage go to address `http://server-ip:8042`
